@@ -1,5 +1,5 @@
 # COMANDOS LINUX TERMINAL 
-## Ubuntu / mint
+## Ubuntu / Mint / OS X
 
 ### Versão da distribuição
 
@@ -64,7 +64,16 @@ mv nomeDoDiretorio novoNomeDoDiretorio
 * [..] : diretorio superior
 
 * /home/nome_usuario - diretorio do usuario para arquivos pessoais do usuario
+ 
+Apagar diretoria vazio
+* $ rm -r nome_file 
 
 ### Ejetar pendrive
 
 umount /media/$username/$diskname
+
+### Procurar 
+* which x 
+
+### Listar de utilitarios e informacoes dos discos
+* Diskuti list
