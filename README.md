@@ -1,6 +1,6 @@
 # guia-linux
 
-Guia de comandos e configurações para Linux (Debian based)
+Guia com comandos CLI Shell - Linux, MacOs
 
 :construction: Em construção
 
