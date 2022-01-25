@@ -1,5 +1,8 @@
-# COMANDOS LINUX TERMINAL 
-## Ubuntu / Mint / OS X
+## Bash Command Line
+- Linux
+- MacOs
+- Bash
+- Zsh
 
 ### Versão da distribuição
 
